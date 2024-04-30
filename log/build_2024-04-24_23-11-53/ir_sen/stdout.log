@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing ir_sen.egg-info/PKG-INFO
+writing dependency_links to ir_sen.egg-info/dependency_links.txt
+writing entry points to ir_sen.egg-info/entry_points.txt
+writing requirements to ir_sen.egg-info/requires.txt
+writing top-level names to ir_sen.egg-info/top_level.txt
+reading manifest file 'ir_sen.egg-info/SOURCES.txt'
+writing manifest file 'ir_sen.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/dev/irSensor/install/ir_sen/lib/python3.10/site-packages/ir-sen.egg-link (link to .)
+Installing listener script to /home/dev/irSensor/install/ir_sen/lib/ir_sen
+Installing talker script to /home/dev/irSensor/install/ir_sen/lib/ir_sen
+
+Installed /home/dev/irSensor/build/ir_sen
+running symlink_data

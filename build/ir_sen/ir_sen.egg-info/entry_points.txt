@@ -1,0 +1,5 @@
+[console_scripts]
+listener = ir_sen.subscriber_member_function:main
+talker = ir_sen.publisher_member_function:main
+test = ir_sen.test_publisher_member_function:main
+

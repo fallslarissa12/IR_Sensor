@@ -1,0 +1,21 @@
+[0.755s] Invoking command in '/home/dev/irSensor/build/ir_sen': PYTHONPATH=/home/dev/irSensor/build/ir_sen/prefix_override:/home/dev/irSensor/install/ir_sen/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/dev/irSensor/build/ir_sen/build --no-deps symlink_data
+[1.073s] running develop
+[1.073s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.073s]   warnings.warn(
+[1.315s] running egg_info
+[1.315s] writing ir_sen.egg-info/PKG-INFO
+[1.315s] writing dependency_links to ir_sen.egg-info/dependency_links.txt
+[1.315s] writing entry points to ir_sen.egg-info/entry_points.txt
+[1.316s] writing requirements to ir_sen.egg-info/requires.txt
+[1.316s] writing top-level names to ir_sen.egg-info/top_level.txt
+[1.318s] reading manifest file 'ir_sen.egg-info/SOURCES.txt'
+[1.318s] writing manifest file 'ir_sen.egg-info/SOURCES.txt'
+[1.320s] running build_ext
+[1.320s] Creating /home/dev/irSensor/install/ir_sen/lib/python3.10/site-packages/ir-sen.egg-link (link to .)
+[1.321s] Installing listener script to /home/dev/irSensor/install/ir_sen/lib/ir_sen
+[1.321s] Installing talker script to /home/dev/irSensor/install/ir_sen/lib/ir_sen
+[1.321s] Installing test script to /home/dev/irSensor/install/ir_sen/lib/ir_sen
+[1.322s] 
+[1.322s] Installed /home/dev/irSensor/build/ir_sen
+[1.322s] running symlink_data
+[1.359s] Invoked command in '/home/dev/irSensor/build/ir_sen' returned '0': PYTHONPATH=/home/dev/irSensor/build/ir_sen/prefix_override:/home/dev/irSensor/install/ir_sen/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/dev/irSensor/build/ir_sen/build --no-deps symlink_data
